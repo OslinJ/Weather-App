@@ -18,7 +18,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/OslinJ/weather-app.git
 
 Navigate to the project directory:
 
@@ -39,8 +39,6 @@ Usage
 Run the application locally:
 
 npm start
-
-Open your browser and go to http://localhost:3000 to use the Weather App.
 
 Technologies Used
 
